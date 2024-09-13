@@ -1,0 +1,10 @@
+langchain~=0.1.12
+python-dotenv==1.0.0
+streamlit~=1.30.0
+tiktoken==0.4.0
+faiss-cpu==1.7.4
+protobuf~=3.20.3
+transformers==4.38.0
+sentence-transformers==2.2.2
+torch==2.0.1
+credentials~=1.1
